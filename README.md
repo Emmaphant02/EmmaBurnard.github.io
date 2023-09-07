@@ -1,6 +1,8 @@
 # EmmaBurnard.github.io
 Teaching Portfolio
 visit https://emmaphant02.github.io/EmmaBurnard.github.io/index.html
+UNFORTUNATELY the dropdown tab in the navigation stoped working once it was uploaded, but you can naviagte to the school experiences through the About Me page
+
 
 Reference:
 Telephasic by HTML5 UP
